@@ -1,0 +1,12 @@
+C:\Users\erick\source\repos\Profesiones.AccesoDatos\bin\Debug\netcoreapp3.1\Profesiones.AccesoDatos.deps.json
+C:\Users\erick\source\repos\Profesiones.AccesoDatos\bin\Debug\netcoreapp3.1\Profesiones.AccesoDatos.dll
+C:\Users\erick\source\repos\Profesiones.AccesoDatos\obj\Debug\netcoreapp3.1\Profesiones.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\Profesiones.AccesoDatos\obj\Debug\netcoreapp3.1\Profesiones.AccesoDatos.AssemblyInfo.cs
+C:\Users\erick\source\repos\Profesiones.AccesoDatos\bin\Debug\netcoreapp3.1\Profesiones.AccesoDatos.pdb
+C:\Users\erick\source\repos\Profesiones.AccesoDatos\bin\Debug\netcoreapp3.1\Profesiones.Entidad.dll
+C:\Users\erick\source\repos\Profesiones.AccesoDatos\bin\Debug\netcoreapp3.1\Profesiones.Entidad.pdb
+C:\Users\erick\source\repos\Profesiones.AccesoDatos\obj\Debug\netcoreapp3.1\Profesiones.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\erick\source\repos\Profesiones.AccesoDatos\obj\Debug\netcoreapp3.1\Profesiones.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Profesiones.AccesoDatos\obj\Debug\netcoreapp3.1\Profesiones.AccesoDatos.csproj.CopyComplete
+C:\Users\erick\source\repos\Profesiones.AccesoDatos\obj\Debug\netcoreapp3.1\Profesiones.AccesoDatos.dll
+C:\Users\erick\source\repos\Profesiones.AccesoDatos\obj\Debug\netcoreapp3.1\Profesiones.AccesoDatos.pdb

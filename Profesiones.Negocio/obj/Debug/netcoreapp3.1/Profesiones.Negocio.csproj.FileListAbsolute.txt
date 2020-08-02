@@ -1,0 +1,14 @@
+C:\Users\erick\source\repos\Profesiones.Negocio\bin\Debug\netcoreapp3.1\Profesiones.Negocio.deps.json
+C:\Users\erick\source\repos\Profesiones.Negocio\bin\Debug\netcoreapp3.1\Profesiones.Negocio.dll
+C:\Users\erick\source\repos\Profesiones.Negocio\bin\Debug\netcoreapp3.1\Profesiones.Negocio.pdb
+C:\Users\erick\source\repos\Profesiones.Negocio\bin\Debug\netcoreapp3.1\Profesiones.Entidad.dll
+C:\Users\erick\source\repos\Profesiones.Negocio\bin\Debug\netcoreapp3.1\Profesiones.Interface.dll
+C:\Users\erick\source\repos\Profesiones.Negocio\bin\Debug\netcoreapp3.1\Profesiones.Interface.pdb
+C:\Users\erick\source\repos\Profesiones.Negocio\bin\Debug\netcoreapp3.1\Profesiones.Entidad.pdb
+C:\Users\erick\source\repos\Profesiones.Negocio\obj\Debug\netcoreapp3.1\Profesiones.Negocio.csprojAssemblyReference.cache
+C:\Users\erick\source\repos\Profesiones.Negocio\obj\Debug\netcoreapp3.1\Profesiones.Negocio.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\Profesiones.Negocio\obj\Debug\netcoreapp3.1\Profesiones.Negocio.AssemblyInfo.cs
+C:\Users\erick\source\repos\Profesiones.Negocio\obj\Debug\netcoreapp3.1\Profesiones.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Profesiones.Negocio\obj\Debug\netcoreapp3.1\Profesiones.Negocio.csproj.CopyComplete
+C:\Users\erick\source\repos\Profesiones.Negocio\obj\Debug\netcoreapp3.1\Profesiones.Negocio.dll
+C:\Users\erick\source\repos\Profesiones.Negocio\obj\Debug\netcoreapp3.1\Profesiones.Negocio.pdb

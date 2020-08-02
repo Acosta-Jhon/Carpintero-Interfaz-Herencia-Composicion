@@ -1,0 +1,9 @@
+C:\Users\erick\source\repos\Profesiones.Entidad\bin\Debug\netcoreapp3.1\Profesiones.Entidad.deps.json
+C:\Users\erick\source\repos\Profesiones.Entidad\bin\Debug\netcoreapp3.1\Profesiones.Entidad.dll
+C:\Users\erick\source\repos\Profesiones.Entidad\bin\Debug\netcoreapp3.1\Profesiones.Entidad.pdb
+C:\Users\erick\source\repos\Profesiones.Entidad\obj\Debug\netcoreapp3.1\Profesiones.Entidad.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\Profesiones.Entidad\obj\Debug\netcoreapp3.1\Profesiones.Entidad.AssemblyInfo.cs
+C:\Users\erick\source\repos\Profesiones.Entidad\obj\Debug\netcoreapp3.1\Profesiones.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Profesiones.Entidad\obj\Debug\netcoreapp3.1\Profesiones.Entidad.dll
+C:\Users\erick\source\repos\Profesiones.Entidad\obj\Debug\netcoreapp3.1\Profesiones.Entidad.pdb
+C:\Users\erick\source\repos\Profesiones.Entidad\obj\Debug\netcoreapp3.1\Profesiones.Entidad.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\erick\source\repos\Profesiones.Interface\obj\Debug\netcoreapp3.1\Profesiones.Interface.csprojAssemblyReference.cache
+C:\Users\erick\source\repos\Profesiones.Interface\obj\Debug\netcoreapp3.1\Profesiones.Interface.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\Profesiones.Interface\obj\Debug\netcoreapp3.1\Profesiones.Interface.AssemblyInfo.cs
+C:\Users\erick\source\repos\Profesiones.Interface\obj\Debug\netcoreapp3.1\Profesiones.Interface.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Profesiones.Interface\bin\Debug\netcoreapp3.1\Profesiones.Interface.deps.json
+C:\Users\erick\source\repos\Profesiones.Interface\bin\Debug\netcoreapp3.1\Profesiones.Interface.dll
+C:\Users\erick\source\repos\Profesiones.Interface\bin\Debug\netcoreapp3.1\Profesiones.Interface.pdb
+C:\Users\erick\source\repos\Profesiones.Interface\obj\Debug\netcoreapp3.1\Profesiones.Interface.dll
+C:\Users\erick\source\repos\Profesiones.Interface\obj\Debug\netcoreapp3.1\Profesiones.Interface.pdb
+C:\Users\erick\source\repos\Profesiones.Interface\bin\Debug\netcoreapp3.1\Profesiones.Entidad.dll
+C:\Users\erick\source\repos\Profesiones.Interface\bin\Debug\netcoreapp3.1\Profesiones.Entidad.pdb
+C:\Users\erick\source\repos\Profesiones.Interface\obj\Debug\netcoreapp3.1\Profesiones.Interface.csproj.CopyComplete
